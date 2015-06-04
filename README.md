@@ -14,9 +14,8 @@ include:
     * Credentials to use when accessing public APIs
     (see [SODA Getting Started](http://dev.socrata.com/consumers/getting-started.html)
     and [SODA Registration](http://dev.socrata.com/register)
-
-    * MongoDB connection info => information to use to directly write data to
-    MongoDB without writing to an intermediate JSON file
+    * MongoDB connection info to directly write data into MongoDB without using
+    an intermediate JSON file
   * Logging
   * Others that do not come to mind
 
